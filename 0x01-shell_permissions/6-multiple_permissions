@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod go=rw hello
+sudo chmod 114 hello
